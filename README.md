@@ -154,11 +154,6 @@ http://127.0.0.1:5500
 # Future Improvements
 
 - Notifications
-- Real-Time Chat
-- Nested Comments
-- Admin Panel
-- Cloud Deployment
-
 ---
 
 # Author
